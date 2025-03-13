@@ -18,3 +18,19 @@ You can share ideas with one another but no direct copying.
 Output:
 
 Show me the running calculator after the given 2 hours
+
+# Documentation
+
+## Install Node/js
+node -v
+
+## Install Expo CLI
+npm install -g expo-cli
+
+## Run 
+expo start
+
+
+
+## Setup Expo go
+npx create-expo-app@latest
